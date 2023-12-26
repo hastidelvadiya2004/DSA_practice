@@ -1,7 +1,6 @@
 import java.util.*;
 public class threesum{
     public static void main(String[] args) {
-        System.out.println("hello");
         int arr[] = {-1, -4, -1, 1 , 0, 2};
         int n = 6;
         List<List<Integer>> ans = new ArrayList<>();
